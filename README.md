@@ -1,2 +1,2 @@
-# Luna
-The Luna Project.
+# Lunar
+The Lunar Project.
